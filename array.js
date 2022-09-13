@@ -1,0 +1,10 @@
+let a = [2,7,2,5,6,7 ,'javascript','array'];
+console.log(a.reverse());
+console.log(a.concat());
+console.log(a.indexOf(2));
+console.log(a.reverse());
+console.log(a.sort());
+console.log(a.at(5));
+console.log(a.length);
+console.log(a.lastIndexOf(6));
+console.log(a);
